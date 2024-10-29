@@ -1,4 +1,4 @@
-import struct 
+import struct  
 
 class RabbitCipher:
     def __init__(self, key, iv=None):
